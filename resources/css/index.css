@@ -3,9 +3,9 @@
     padding: 0;
   }
   
-  body{
+  /* body{
     background-color: black;
-  }
+  } */
 
   .info{
     opacity: 20%;
@@ -17,7 +17,7 @@
     height: 100%;
     width: 100%;
     padding: auto 0;
-    color: beige;
+    color: rgb(0, 0, 0);
     font-family: Helvetica;
     font-style: italic;
     display: flex;
