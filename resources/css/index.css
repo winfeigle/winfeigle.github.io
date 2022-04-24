@@ -11,6 +11,11 @@
     opacity: 20%;
     font-weight: 100;
   }
+
+  .navbar-brand img{
+    height: 30px;
+    margin: 10px;
+  }
   
   .name{
     position: fixed;
